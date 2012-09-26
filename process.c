@@ -433,7 +433,7 @@ void cpu_idle(void)
 
 	while (1) {
 
-                printk("Hello World \n");
+                //printk("Hello World \n");
 
 		tick_nohz_idle_enter();
 
